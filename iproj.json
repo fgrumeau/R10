@@ -6,7 +6,7 @@
   ],
   "repository": "git@github.com:fgrumeau/R10.git",
   "objlib": "&verlibr10",
-  "curlib": "*CRTDFT",
+  "curlib": "&CURLIB",
   "extensions": {
     "arcad": {
       "code": "R10",
