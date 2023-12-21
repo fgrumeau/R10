@@ -7,5 +7,6 @@
              CRTDUPOBJ  OBJ(DETORD) FROMLIB(*LIBL) OBJTYPE(*FILE) +
                           TOLIB(QTEMP) NEWOBJ(DETORD) CST(*NO) +
                           TRG(*NO)
+            /* PGM */
              OVRDBF     FILE(TMPDETORD) TOFILE(QTEMP/DETORD)
              CALL       PGM(ORD100)
