@@ -1,0 +1,7 @@
+{
+    "version": "0.0.1",
+    "sourceAttributes": {
+        "name": "ISOTODATE4.SQLUDF",
+        "text": "Transform num ISO to date, 0 = 01/01/1940"
+    }
+}
