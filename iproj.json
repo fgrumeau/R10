@@ -1,20 +1,20 @@
 {
-    "description": "R10 - NRT Git Merlin Mode VSC",
-    "version": "0.0.1",
-    "includePath": [
-        "R10_SRC/QPROTOSRC"
-    ],
-    "repository": "git@github.com:fgrumeau/R10.git",
-    "objlib": "&verlibr10",
-    "curlib": "*CRTDFT",
-    "extensions": {
-        "arcad": {
-            "code": "R10",
-            "libraryPrefix": "R10",
-            "iasp": "*SYSBAS",
-            "validated": true
-        }
-    },
-    "buildCommand": "elias compile {branch}",
-    "compileCommand": "elias compile {branch} -f {filename}"
+  "description": "R10 - NRT Git Merlin Mode VSC",
+  "version": "0.0.1",
+  "includePath": [
+    "R10_SRC/QPROTOSRC"
+  ],
+  "repository": "git@github.com:fgrumeau/R10.git",
+  "objlib": "&verlibr10",
+  "curlib": "&CURLIB",
+  "extensions": {
+    "arcad": {
+      "code": "R10",
+      "libraryPrefix": "R10",
+      "iasp": "*SYSBAS",
+      "validated": true
+    }
+  },
+  "buildCommand": "elias compile {branch}",
+  "compileCommand": "elias compile {branch} -f {filename}"
 }

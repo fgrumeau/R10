@@ -1,0 +1,6 @@
+.*
+!**/.ibmi.json
+!**/.ibmi
+!.gitignore
+!.deployignore
+!.arcadignore
