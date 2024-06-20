@@ -1,0 +1,7 @@
+{
+    "version": "0.0.1",
+    "sourceAttributes": {
+        "name": "CUST_NONAM.SQLMASK",
+        "text": "CUST_NONAME_IF_NOT_PRIVILEGED"
+    }
+}

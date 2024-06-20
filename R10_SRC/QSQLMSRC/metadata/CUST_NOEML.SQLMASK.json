@@ -1,0 +1,7 @@
+{
+    "version": "0.0.1",
+    "sourceAttributes": {
+        "name": "CUST_NOEML.SQLMASK",
+        "text": "CUST_NOEML_IF_NOT_PRIVILEGED"
+    }
+}

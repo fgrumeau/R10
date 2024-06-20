@@ -1,0 +1,7 @@
+{
+    "version": "0.0.1",
+    "sourceAttributes": {
+        "name": "CUST_NOPHN.SQLMASK",
+        "text": "CUST_NOPHN_IF_NOT_PRIVILEGED"
+    }
+}
